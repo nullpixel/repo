@@ -1,0 +1,19 @@
+footer[role="footer"] {
+  text-align: center;
+}
+
+nav a {
+    margin-right: .5em;
+    white-space: nowrap
+}
+
+nav a:last-child {
+    margin-right: 0
+}
+
+img.screenshot-image {
+  width: 100%;
+  max-width:375px;
+  display: block;
+  margin: 0 auto;
+}

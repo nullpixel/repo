@@ -1,0 +1,69 @@
+Package: co.nullpixel.CraShit
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Jamie Bishop <tweaks@nullpixel.uk>
+Installed-Size: 140
+Filename: deb/co.nullpixel.CraShit_1.1_iphoneos-arm.deb
+Size: 8236
+MD5sum: 3c1a252673b68f97666c79ad80999246
+SHA1: 168d072dba9b58b7d73176080e9b35e2b30d22ed
+SHA256: 1b70e6c1cc04f78312ff9a73331e1721a78ffac7905d53667a2692d9007f001f
+Section: Utilities
+Homepage: https://nullpixel.uk
+Description: Respring your phone easily!
+Author: Jamie Bishop <tweaks@nullpixel.uk>
+Https: //repo.nullpixel.uk/depiction/co.nullpixel.crashit
+Name: CraShit
+
+Package: co.nullpixel.GoBigger
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Jamie Bishop <tweaks@nullpixel.uk>
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 8.0)
+Filename: deb/co.nullpixel.GoBigger_1.0_iphoneos-arm.deb
+Size: 3384
+MD5sum: 14005c79fb2ecedcf3d9927905d74f53
+SHA1: 6a76efbab2906dbdc901f2ce194ec2b5dfba0a12
+SHA256: 8ab6d372837dbb98f82e5cecde983e56367d0178dc9aa9050b6babdf166a2169
+Section: Tweaks
+Description: Hide the statusbar when playing Pokemon GO! Also stops you from accidently opening the control centre!
+Author: Jamie Bishop <tweaks@nullpixel.uk>
+Depiction: https://repo.nullpixel.uk/depiction/co.nullpixel.gobigger
+Name: GoBigger
+
+Package: co.nullpixel.NoLowPowerLock
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Jamie Bishop <tweaks@nullpixel.uk>
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: deb/co.nullpixel.NoLowPowerLock_1.0_iphoneos-arm.deb
+Size: 3176
+MD5sum: 4033d152262c4f29074157851cc9a2f5
+SHA1: 0c09307ed297131aa8eab5f1c0aa286b909a9740
+SHA256: c3ea2358e76d460e2c9901a6878f826575195ce6c4b356cd317e58352232eb58
+Section: Tweaks
+Description: Allows you to have AutoLock to Never on LowPower mode (Note, this over-rides your settings regardless of if LowPower mode is on.) A update will come soon, so you can set the lock interval.
+Author: Jamie Bishop <tweaks@nullpixel.uk>
+Depiction: https://repo.nullpixel.uk/depiction/co.nullpixel.nolowpowerlock
+Name: NoLowPowerLock
+
+Package: uk.nullpixel.ccdata
+Depiction: https://repo.nullpixel.uk/depiction/uk.nullpixel.ccdata/
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Jamie Bishop <tweaks@nullpixel.uk>
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: deb/uk.nullpixel.ccdata_1.0_iphoneos-arm.deb
+Size: 3100
+MD5sum: 43dc845f7240a5e81a982c94d7496adc
+SHA1: 9029a74869ab442b69f39bed10cfb164338f752d
+SHA256: 3069a01bbf2c4839b5238cb509664db2dca79b584e58400359b4951403670320
+Section: Tweaks
+Description: Adds the hidden Data toggle to your control center
+Author: Jamie Bishop <tweaks@nullpixel.uk>
+Depiction: https://repo.nullpixel.uk/depiction/uk.nullpixel.ccdata
+Name: CCData
+

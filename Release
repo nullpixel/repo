@@ -1,0 +1,19 @@
+Origin: nullpixel's Repo
+
+Label: nullpixel's Repo
+
+Suite: stable
+
+Version: 1.0
+
+Codename: ios
+
+Architectures: iphoneos-arm
+
+Components: main
+
+Description: A collection of useful tweaks and tools from meewq
+
+MD5Sum:
+8f17deb276435b53230e52679d7d1a0a 2636 Packages
+2b4faf33b9cbeada1076adc5d2e36b1e 1174 Packages.bz2
