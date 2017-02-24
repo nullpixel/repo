@@ -55,14 +55,14 @@ Architecture: iphoneos-arm
 Maintainer: Jamie Bishop <tweaks@nullpixel.uk>
 Depends: com.anemonetheming.anemone (>=1.1-348)
 Filename: deb/uk.nullpixel.comicsansanemone.deb
-Size: 81474
-MD5sum: 5cb5bc7e44c4d183e9473272a6fbbab5
-SHA1: eacd4d621b3eabd1206d7509c555d90b15783211
-SHA256: 7fdf24dbd158f2fb61a19b4450c8956cb0b303a60734fd8fc1ed01c57d75a8a5
+Size: 81418
+MD5sum: dc0a39b4c5cf4fe9b87713013b53da13
+SHA1: 082fbfb190d7c6cec2cd341261e666ccff50b975
+SHA256: 2ab0b34f4787d03ff5db23fdc69b52220a9cebaf01d09c40087ceb1714c9816d
 Section: Fonts
 Description: Comic Sans for anemone
 Author: Jamie Bishop <tweaks@nullpixel.uk>
-Depiction: https://repo.nullpixel.uk/depiction/uk.nullpixel.ComicSansAnemone/
+Depiction: https://repo.nullpixel.uk/depiction/uk.nullpixel.comicsansanemone
 Name: ComicSans Anemone
 
 Package: uk.nullpixel.ccdata
