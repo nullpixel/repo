@@ -49,6 +49,22 @@ Author: Jamie Bishop <tweaks@nullpixel.uk>
 Depiction: https://repo.nullpixel.uk/depiction/co.nullpixel.nolowpowerlock
 Name: NoLowPowerLock
 
+Package: uk.nullpixel.ComicSansAnemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Jamie Bishop <tweaks@nullpixel.uk>
+Depends: com.anemonetheming.anemone (>=1.1-348)
+Filename: deb/uk.nullpixel.comicsansanemone.deb
+Size: 81474
+MD5sum: 95f26b2204da390b4504e96d0d5ead11
+SHA1: 94c8c1c51d5bdc4b78f9e1d45468e0661acfdc8b
+SHA256: 6e2c433d68fab54bc2f0ef0fec44c328763bed8ebd7dddd4999c09f466a54d26
+Section: Fonts
+Description: Comic Sans for anemone
+Author: Jamie Bishop <tweaks@nullpixel.uk>
+Depiction: https://repo.nullpixel.uk/depiction/uk.nullpixel.ComicSansAnemone/
+Name: ComicSans Anemone
+
 Package: uk.nullpixel.ccdata
 Depiction: https://repo.nullpixel.uk/depiction/uk.nullpixel.ccdata/
 Version: 1.0
