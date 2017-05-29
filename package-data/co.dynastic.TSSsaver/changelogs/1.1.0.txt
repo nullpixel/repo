@@ -1,0 +1,9 @@
+Thanks for using TSSSaver! In this release:
+
+The app is now OPEN SOURCE! Check the source out at https://github.com/nullpixel/tsssaver.
+Fixed some crahses on some devices, send me logs if you have em!
+Added a sexy icon! Thanks ProjectB.
+Added this fancy-spinner-thing so you know it's actually doing stuff.
+Should be much more stable.
+
+Sideload support will be in the next version!
