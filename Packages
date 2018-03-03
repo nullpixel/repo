@@ -1,15 +1,18 @@
-Package: co.dynastic.TSSsaver
-Version: 1.1.0
+Package: co.dynastic.tsssaver
+Depiction: https://repo.nullpixel.uk/depiction/co.dynastic.tsssaver/
+Version: 1.2.0
 Architecture: iphoneos-arm
-Maintainer: nullpixel <jamie@dynastic.co>
-Filename: deb/co.dynastic.TSSsaver.deb
-Size: 7071678
-MD5sum: cdc236736a34df48f368e14cfef55937
-SHA1: f1f7f0acd636ddcb7b343d63d7f442cccc20275d
-SHA256: 492e27e64788f3f0ab0be55d30664cf61186d39c6747048acabcb0ef90355ea2
+Maintainer: Jamie Bishop <jamie@dynastic.co>
+Installed-Size: 444
+Depends: com.modmyi.libswift4 (>= 4.0.3), firmware (>= 8.0)
+Filename: deb/co.dynastic.tsssaver.deb
+Size: 152032
+MD5sum: fe2e43efaa390e4b81f100175ad1cddb
+SHA1: e669009b17ce74000712124861e4fc0f22d31386
+SHA256: 483f16008726c8882984f014565b921c443d4a39ebc036e1ada981584c7e0c59
 Section: Utilities
 Description: A one-click tool to save blobs using TSSsaver.1conan.com
-Author: nullpixel <jamie@dynastic.co>
+Author: Jamie Bishop <jamie@dynastic.co>
 Depiction: https://repo.nullpixel.uk/depiction/co.dynastic.tsssaver/
 Name: TSS Saver
 
