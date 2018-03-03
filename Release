@@ -6,14 +6,14 @@ Suite: stable
 
 Version: 1.0
 
-Codename: ios
+Codename: dslk
 
 Architectures: iphoneos-arm
 
 Components: main
 
-Description: A collection of useful tweaks and tools from meewq
+Description: stuff
 
 MD5Sum:
 ff25d230f074e2626cad53b8887fbd78 3768 Packages
-b020f77c2afb9cafcac8664e7d1d9969 1541 Packages.bz2
+9aa619e0b570893bf14a9c99150fb15c 1547 Packages.bz2
