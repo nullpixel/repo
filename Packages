@@ -5,7 +5,7 @@ Architecture: iphoneos-arm
 Maintainer: Jamie Bishop <jamie@dynastic.co>
 Installed-Size: 444
 Depends: com.modmyi.libswift4 (>= 4.0.3), firmware (>= 8.0)
-Filename: deb/co.dynastic.tsssaver.deb
+Filename: deb/co.dynastic.TSSsaver.deb
 Size: 152032
 MD5sum: fe2e43efaa390e4b81f100175ad1cddb
 SHA1: e669009b17ce74000712124861e4fc0f22d31386
