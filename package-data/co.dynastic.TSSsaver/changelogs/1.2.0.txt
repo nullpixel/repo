@@ -1,0 +1,9 @@
+Thanks for using TSSSaver! In this release:
+
+iOS 11 compatability.
+Added a new icon! Thanks AppleBetas.
+Switched to theos for building.
+Reduced file size.
+More stuff!
+
+Sideload support will be in the next version!
